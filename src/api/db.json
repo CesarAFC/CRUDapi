@@ -1,0 +1,29 @@
+{
+  "Rick&Morty": [
+    {
+      "id": 1,
+      "name": "Rick",
+      "universe": "C-137"
+    },
+    {
+      "id": 2,
+      "name": "Morty",
+      "universe": "C-137"
+    },
+    {
+      "id": 3,
+      "name": "Beth",
+      "universe": "C-137"
+    },
+    {
+      "id": 4,
+      "name": "Big Boobed Waitress",
+      "universe": "Fantasy World"
+    },
+    {
+      "id": 5,
+      "name": "Gotron Pilot",
+      "universe": "C-137"
+    }
+  ]
+}
