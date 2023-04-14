@@ -17,7 +17,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "fake-api": "json-server --watch src/api/db.json --config src/api/json-server.json"  
+    "fake-api": "json-server --watch src/api/db.json --config src/api/json-server.json --nc"  
   },
   "eslintConfig": {
     "extends": [
